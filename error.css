@@ -1,0 +1,42 @@
+h1{
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial;
+    font-size: 80px;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+body{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+section{
+    display: inline-block;
+    background-color: rgb(95, 93, 93);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+    box-shadow: 2px 2px 4px black;
+}
